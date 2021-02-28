@@ -140,7 +140,7 @@ textarea{
 	height:500px;
 	position:shadow;
 	top:100px;
-	background-image:url(logoim.JFIF);
+	background-image:url(logoim.jfif);
 	-webkit-background-size:cover;
 	background-position:center center;
 }
