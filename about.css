@@ -1,0 +1,16 @@
+.text-container {
+	margin-top:50px;
+	float:left;
+}
+main.container{
+	display:flex;
+	margin-top:50px;
+	
+}
+.text-container{
+	width:50%;
+	padding-bottom:50px;
+}
+span{
+	font-size:20px;
+}

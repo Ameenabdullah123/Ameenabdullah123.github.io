@@ -1,0 +1,23 @@
+main.container{
+	display:flex;
+	margin-top:50px;
+	
+}
+.text-container{
+	width:50%;
+	padding-bottom:50px;
+}
+.text-container h1{
+	
+	font-size:80px;
+	margin-bottom:0.6m;
+}
+.text-container {
+	margin-top:50px;
+	float:left;
+}
+span{
+	color:#00BFFF;
+}
+
+

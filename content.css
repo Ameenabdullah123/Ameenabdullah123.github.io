@@ -1,0 +1,16 @@
+main.containr{
+		display:flex;
+	margin-top:50px;
+	
+}
+
+
+.child{
+	margin-top:80px;
+	float:left;
+	width:50%;
+	
+}
+form{
+	margin-top:30px;
+}
